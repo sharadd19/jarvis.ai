@@ -1,6 +1,6 @@
 from fastapi import APIRouter
-from services.model_picker import model_picker
-from models.ChatInputModel import ChatInput
+from backend.services.model_picker import model_picker
+from backend.models.ChatInputModel import ChatInput
 
 router = APIRouter()
 
