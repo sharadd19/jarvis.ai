@@ -1,6 +1,6 @@
 # Goals
 
-[] - Chat endpoint
+[x] - Chat endpoint
 [] - Agent endpoint
 [] - Agent handler (MCP Client)
     [] - Detect tool use
@@ -12,4 +12,4 @@
     [] - when user clicks on which server, it filters for that one
     [] - sends api call to mcp/status to check its running
     [] - runs that?
-[] - Model router
+[x] - Model router
