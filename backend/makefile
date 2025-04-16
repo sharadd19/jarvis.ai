@@ -1,2 +1,2 @@
 run:
-	uvicorn main:app --reload
+	PYTHONPATH=.. uvicorn main:app --reload
